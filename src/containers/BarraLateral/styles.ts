@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Aside = styled.aside`
   padding-left: 50px;
   padding-top: 16px;
-  background-color: #00cec9;
+  background-color: #fcfcfc;
   height: 100vh;
   display: block;
 `

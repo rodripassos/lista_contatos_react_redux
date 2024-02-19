@@ -7,7 +7,7 @@ type Props = {
 export const Card = styled.div<Props>`
   padding: 8px;
   border: 2px solid ${(props) => (props.ativo ? '#d63031' : '#a1a1a1')};
-  background-color: ${(props) => (props.ativo ? '#55efc4' : '#fcfcfc')};
+  background-color: ${(props) => (props.ativo ? '#fad390' : '#fcfcfc')};
   color: ${(props) => (props.ativo ? '#d63031' : '#5e5e5e')};
   ${(props) => (props.ativo ? 'border-right: none;' : '#5e5e5e')};
   border-radius: 16px 0 0 16px;

@@ -18,7 +18,7 @@ export const Container = styled.div`
 
 export const MainContainer = styled.main`
   padding: 0 60px;
-  background-color: #55efc4;
+  background-color: #fad390;
   height: 100vh;
   overflow-y: scroll;
 `
