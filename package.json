@@ -11,8 +11,11 @@
     "@types/node": "^16.18.82",
     "@types/react": "^18.2.56",
     "@types/react-dom": "^18.2.19",
+    "jquery": "^3.7.1",
+    "jquery-mask-plugin": "^1.14.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-imask": "^7.4.0",
     "react-redux": "^9.1.0",
     "react-router-dom": "^6.22.1",
     "react-scripts": "5.0.1",
@@ -45,6 +48,8 @@
     ]
   },
   "devDependencies": {
+    "@types/jquery": "^3.5.29",
+    "@types/jquery-mask-plugin": "^1.14.6",
     "@typescript-eslint/eslint-plugin": "^7.0.1",
     "@typescript-eslint/parser": "^7.0.1",
     "eslint": "^8.56.0",
